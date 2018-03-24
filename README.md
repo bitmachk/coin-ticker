@@ -19,7 +19,7 @@ Write a syntax (specify the display items) below in in the **body**:
 Click the *link* (right side) for viewing the *example* (widget tags):
 [Example](https://bitmachk.github.io/en/test.html)
 
-## Displayed info in the ticker box:
+## Displaying info in the ticker box:
 **Ranking**;
 **Market Cap**;
 **Volume** (24hrs);

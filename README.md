@@ -16,7 +16,7 @@ Write a syntax (specify the display items) below in in the **body**:
 <div class="coinmarketcap-currency-widget" data-currencyid="1" data-base="HKD" data-secondary="USD" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="true"></div>
 ```
 
-Click the *link* below for viewing the *example* (widget tags)
+Click the *link* (right side) for viewing the *example* (widget tags)
 [Example](https://bitmachk.github.io/en/test.html)
 
 ## Displayed info in the ticker box:

@@ -6,12 +6,12 @@ Reference Fiat Currency (Secondary) – i.e., *USD*
 Ticker Symbol
 
 ## Setting up the ticker widget(s):
-Write a syntax (call the coin.js) below in the header:
+Write a syntax (call the coin.js) below in the **header**:
 ```javascript
 <script type="text/javascript" src="coin.js"></script>
 ```
 
-Write a syntax (specify the display items) below in in the body:
+Write a syntax (specify the display items) below in in the **body**:
 ```javascript
 <div class="coinmarketcap-currency-widget" data-currencyid="1" data-base="HKD" data-secondary="USD" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="true"></div>
 ```
